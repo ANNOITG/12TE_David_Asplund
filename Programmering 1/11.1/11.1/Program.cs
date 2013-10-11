@@ -10,7 +10,7 @@ namespace _11._1
     {
         static void Hello(string namn)
         {
-            Console.WriteLine("Hello " + namn + "!");
+            Console.WriteLine("Hello " + namn + "!"); //Mycket bra. Kommentera lite kanske? =) 
         }
         static void Main(string[] args)
         {
